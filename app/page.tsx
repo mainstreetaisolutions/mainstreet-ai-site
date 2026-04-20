@@ -14,7 +14,7 @@ export default function MainStreetAIPage() {
         <img
           src="https://i.imgur.com/NSPertG.png"
           alt="MainStreet watermark"
-          className="pointer-events-none absolute left-1/2 top-[52%] z-0 w-[105vw] max-w-none -translate-x-1/2 -translate-y-1/2 opacity-[0.10] brightness-[1.15] contrast-[1.05] sm:top-[62%] sm:w-[92vw] md:top-1/2 md:w-[72vw] md:max-w-[860px] md:-translate-y-[46%] md:opacity-[0.16] md:brightness-[1.2] md:contrast-[1.08]"
+          className="pointer-events-none absolute left-1/2 top-[34%] z-0 w-[112vw] max-w-none -translate-x-1/2 -translate-y-1/2 opacity-[0.09] brightness-[1.12] contrast-[1.04] sm:top-[48%] sm:w-[96vw] md:top-1/2 md:w-[72vw] md:max-w-[860px] md:-translate-y-[46%] md:opacity-[0.16] md:brightness-[1.2] md:contrast-[1.08]"
         />
         <div className="relative z-10 mx-auto max-w-6xl px-6 py-20 lg:px-8 lg:py-24">
           <div className="grid gap-14 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
